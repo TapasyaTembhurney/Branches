@@ -5,3 +5,5 @@ function add(a, b) {
 }
 
 for(let i = 0; i < 5; i++) {}
+if(true) {}
+
